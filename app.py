@@ -6,6 +6,8 @@ def main():
     This assessment gauges how secure your home network might be, based on how you use it and 
     what security measures you have in place. Answer the questions below to receive a risk score 
     and personalized recommendations.
+
+    Created by Regina Chitralla
     """)
 
     # 1. What Kind of Data Do You Use?
